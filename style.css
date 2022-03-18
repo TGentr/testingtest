@@ -1,0 +1,76 @@
+body{
+    margin: none;
+}
+
+#main {
+    width: 58vw;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 95vh;  
+}
+
+.uno {
+    height: 53vh;
+    width: 25vw;
+    background-color: red;
+    margin: 2vw;
+    -webkit-box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+-moz-box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+position: relative;
+}
+
+.dos {
+    height: 20vh;
+    width: 25vw;
+    background-color: red;
+    margin: 2vw;
+    -webkit-box-shadow: 9px 5px 21px -16px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 9px 5px 21px -16px rgba(66, 68, 90, 1);
+    box-shadow: 9px 5px 21px -16px rgba(66, 68, 90, 1);
+    -webkit-box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+-moz-box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+
+
+    
+}
+
+.tres {
+    height: 81vh;
+    width: 25vw;
+    background-color: red;
+    margin: 2vw;
+    -webkit-box-shadow: 9px 5px 21px -16px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 9px 5px 21px -16px rgba(66, 68, 90, 1);
+    box-shadow: 9px 5px 21px -16px rgba(66, 68, 90, 1);
+    -webkit-box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+-moz-box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+box-shadow: 13px 12px 35px -16px rgba(66, 68, 90, 1);
+
+
+    
+}
+
+.line {
+    width: 21vw;
+    height: 1.5vh;
+    margin: 2vw;
+    background-color: white;
+}
+
+h1 {
+    
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3vw;
+}
+
+.name {
+    position:absolute;
+    bottom: 1vh;
+    margin: 1vw 2vw;
+}
